@@ -52,9 +52,14 @@ Leukocoria Detector Model > Overview
 https://universe.roboflow.com/leukocoria-detector-nv8ij/leukocoria-detector-rsl8x
 
 And building upon the acceptable results obtained in a previous project that utilized `Fastercnn_fpn`:
-ablanco1950/Brain_tumors-Fastercnn_fpn: Brain tumor detector using the Roboflow dataset https://universe.roboflow.com/test-svk7h/brain-tumors-detection/dataset/2 as a training dataset and simple programs. It requires very few resources, and training can be run on a personal computer. 
-ablanco1950/BrainTumorsSegmentation_yolo26: Brain tumor segmentation using `Fastercnn_fpn` with the Roboflow dataset: https://universe.roboflow.com/mri-brain-tumor/brain-tumor-segmentation-8aek5/dataset/1
+
 https://github.com/ablanco1950/Brain_tumors-Fastercnn_fpn
+Brain tumor detector using the Roboflow dataset
+https://universe.roboflow.com/test-svk7h/brain-tumors-detection/dataset/2 as a training dataset and simple programs.
+
+That requires very few resources, and training can be run on a personal computer. 
+
+
 
 This project, which employs `Fastercnn_fpn`, is presented here.
 
