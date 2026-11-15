@@ -175,7 +175,9 @@ https://medium.com/@mochammadyahya002/building-retina-ai-from-a-cnn-training-pip
 
 ## Acknowledgements
 
-* This project benefited from the assistance of **Google Gemini**  adapting the dataset labels to the requirements of Faster R-CNN and   optimizing hyperparameters .
+* This project benefited from the assistance of **Google Gemini**  adapting the dataset labels to the requirements of Faster R-CNN and   optimizing hyperparameters.
+
+* **Google Gemini** asking "python en un coco json, conociendo el nombre de una imagen, como puedo obtener sus labels"
 
 * IA from bing asking "python train labels images with fpn"
 
