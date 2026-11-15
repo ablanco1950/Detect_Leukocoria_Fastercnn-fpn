@@ -166,7 +166,7 @@ REFERENCES
 
 https://universe.roboflow.com/leukocoria-detector-nv8ij/leukocoria-detector-rsl8x/dataset/2
 
-https://universe.roboflow.com/leukocoria-detector-nv8ij/leukocoria-detector-rsl8x
+https://universe.roboflow.com/leukocoria-detector-nv8ij/leukocoria-detector-rsl8x (model provided by Roboflow to test))
 
 https://github.com/ablanco1950/Detect_Leukocoria_Yolo26-seg
 
