@@ -89,13 +89,21 @@ Regarding the required modules, a `requirements.txt` file is provided.
 If you install in a new environment and don´t use requirements.txt, you must install
 
 pip install torchvision
+
 pip install requests
+
 pip install pycocotools
+
 pip install packaging
+
 pip install pyparsing
+
 pip install cycler
+
 pip install python-dateutil
+
 pip install kiwisolver
+
 pip install importlib_resources
 
 
