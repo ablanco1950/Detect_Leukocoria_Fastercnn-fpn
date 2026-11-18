@@ -69,21 +69,6 @@ INSTALLATION
 
 Download and extract the project folder.
 
-Download the dataset from: https://universe.roboflow.com/leukocoria-detector-nv8ij/leukocoria-detector-rsl8x/dataset/2
-
-You will need a Roboflow API key, which can be obtained for free on the Roboflow website.
-
-You can choose the option to download the dataset as a ZIP file, move it to the project folder, and extract it there. You may be prompted to overwrite existing files—this is because the `data.yaml` file appears twice in the Roboflow dataset; please proceed with the overwrite.
-
-Convert the train, valid, and test files from the Roboflow dataset into COCO JSON format (currently, this dataset cannot be downloaded in that format directly from the Roboflow download page) by executing the following commands in sequence:
-
-python ConvertYolo_to_CocoJsonTrain.py
-
-python ConvertYolo_to_CocoJsonValid.py
-
-python ConvertYolo_to_CocoJsonTest.py
-
-
 Regarding the required modules, a `requirements.txt` file is provided.
 
 If you install in a new environment and don´t use requirements.txt, you must install
@@ -105,6 +90,22 @@ pip install python-dateutil
 pip install kiwisolver
 
 pip install importlib_resources
+
+Download the dataset from: https://universe.roboflow.com/leukocoria-detector-nv8ij/leukocoria-detector-rsl8x/dataset/2
+
+You will need a Roboflow API key, which can be obtained for free on the Roboflow website.
+
+You can choose the option to download the dataset as a ZIP file, move it to the project folder, and extract it there. You may be prompted to overwrite existing files—this is because the `data.yaml` file appears twice in the Roboflow dataset; please proceed with the overwrite.
+
+Convert the train, valid, and test files from the Roboflow dataset into COCO JSON format (currently, this dataset cannot be downloaded in that format directly from the Roboflow download page) by executing the following commands in sequence:
+
+python ConvertYolo_to_CocoJsonTrain.py
+
+python ConvertYolo_to_CocoJsonValid.py
+
+python ConvertYolo_to_CocoJsonTest.py
+
+
 
 
 =========================================
