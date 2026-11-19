@@ -156,20 +156,15 @@ The boxes and the probabilities are shown with great clarity. Only scores > 0.85
 
 ===============================================
 
-TASKS PLANNED FOR THIS TOPIC:
-
-Conduct tests  RFDETRBase
-
-================================================
-
 REFERENCES
-
 
 https://universe.roboflow.com/leukocoria-detector-nv8ij/leukocoria-detector-rsl8x/dataset/2
 
 https://universe.roboflow.com/leukocoria-detector-nv8ij/leukocoria-detector-rsl8x (model provided by Roboflow to test))
 
 https://github.com/ablanco1950/Detect_Leukocoria_Yolo26-seg
+
+https://github.com/ablanco1950/Detect_Leukocoria_RFDETRBase
 
 https://github.com/ablanco1950/Brain_tumors-Fastercnn_fpn
 
